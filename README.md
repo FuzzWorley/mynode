@@ -87,7 +87,7 @@ You can run myNode on your own device in just a few easy steps!
 2. Flash Image onto SD Card
     * Download [Etcher](https://www.balena.io/etcher/)
     * Flash Downloaded Image
-3. Insert SD Card and Boot your Device
+3. Insert SD Card, connect ethernet cable to modem, and Boot your Device
 4. Attach External HD to Device
     * 1TB+ Required
 5. Visit http://mynode.local/ or http://ip_of_device/
